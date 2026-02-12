@@ -1,4 +1,4 @@
-Food Trends Understanding Customer Preferences
+#Food Trends Understanding Customer Preferences
 Project Overview:
 
 This project was developed as part of the Infosys Springboard Virtual Internship. It focuses on analyzing customer food ordering behaviour and preferences in the Food & Beverage (F&B) domain using data analytics and visualization techniques. The project transforms raw customer data into meaningful insights through interactive Power BI dashboards to support data-driven decision-making.
