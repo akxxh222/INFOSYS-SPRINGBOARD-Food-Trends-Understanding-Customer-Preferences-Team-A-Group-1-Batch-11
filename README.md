@@ -56,15 +56,37 @@ The dataset used is publicly available and utilized only for learning and academ
 
 ## Team Learnings & Outcomes:
 
-Developed end-to-end understanding of the data analytics lifecycle
+### Technical Skills
 
-Gained hands-on experience in Power BI dashboard development
+Power BI dashboard development
 
-Improved ability to extract insights from customer data
+Data cleaning and preprocessing using Power Query Editor
 
-Strengthened data storytelling and visualization skills
+Data validation and consistency checks
 
-Learned structured collaboration and version control practices
+Creation of KPI cards, bar charts, column charts, and interactive visuals
+
+Use of slicers and filters for dynamic analysis
+
+Basic DAX functions (AVERAGE, COUNT)
+
+Data analysis of customer demographics and ordering behaviour
+
+Excel-based data sorting, filtering, and validation
+
+### Soft Skills
+
+Data storytelling and structured presentation of insights
+
+Team collaboration under sequential workflow constraints
+
+Responsibility sharing and coordination in report updates
+
+Problem-solving during data preprocessing errors
+
+Attention to detail in validation and dashboard accuracy
+
+Time management during milestone-based project execution
 
 ## Future Enhancements:
 
