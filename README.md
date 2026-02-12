@@ -62,8 +62,11 @@ The project successfully analyzed customer ordering behaviour and food preferenc
 Contributors:
 
 Jai Akash L J
+
 Lekhana S.R
+
 Harshini Ganesan
+
 Abhinit Kumar
 
 Note:
