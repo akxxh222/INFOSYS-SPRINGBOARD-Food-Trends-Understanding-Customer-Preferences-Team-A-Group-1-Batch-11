@@ -54,6 +54,8 @@ This project is created for educational purposes as part of the Infosys Springbo
 
 The dataset used is publicly available and utilized only for learning and academic analysis.
 
+This project is licensed under the MIT License
+
 ## Team Learnings & Outcomes:
 
 ### Technical Skills
