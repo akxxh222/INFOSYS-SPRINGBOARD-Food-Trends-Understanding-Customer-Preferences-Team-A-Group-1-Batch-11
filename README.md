@@ -6,16 +6,16 @@ This project was developed as part of the Infosys Springboard Virtual Internship
 ## Project Files:
 
 
-Individual PPTs
+Individual PPTs -
 Contains individual presentation slides prepared by each team member explaining their respective contributions, methodology, and findings.
 
-GROUP PPT.pptx
+GROUP PPT.pptx -
 Final consolidated presentation used for project review, conference presentation, and internal evaluation.
 
- LICENSE
+ LICENSE-
 Specifies the legal permissions and usage rights for this project repository.
 
-REPORT.pdf
+REPORT.pdf-
 Complete project documentation including:
 - Problem statement  
 - Literature review  
@@ -23,12 +23,12 @@ Complete project documentation including:
 - Dataset description  
 - Machine learning model implementation  
 - Results and evaluation  
-Future scope  
+- Future scope  
 
-Team A dashboard.pbix
+Team A dashboard.pbix-
 Power BI dashboard file used for data visualization and exploratory data analysis of the dataset.
 
-dataset.xlsx
+dataset.xlsx-
 Processed dataset used for training and evaluating the machine learning model. Includes labeled classes and bounding box information.
 
 ## Key Features:
