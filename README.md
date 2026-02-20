@@ -5,13 +5,31 @@ This project was developed as part of the Infosys Springboard Virtual Internship
 
 ## Project Files:
 
-Power BI dashboard files containing customer behavior analysis
 
-Dataset used for customer food ordering behaviour analysis
+Individual PPTs
+Contains individual presentation slides prepared by each team member explaining their respective contributions, methodology, and findings.
 
-Project documentation and reports
+GROUP PPT.pptx
+Final consolidated presentation used for project review, conference presentation, and internal evaluation.
 
-README file explaining project structure and insights
+ LICENSE
+Specifies the legal permissions and usage rights for this project repository.
+
+REPORT.pdf
+Complete project documentation including:
+- Problem statement  
+- Literature review  
+- Methodology  
+- Dataset description  
+- Machine learning model implementation  
+- Results and evaluation  
+Future scope  
+
+Team A dashboard.pbix
+Power BI dashboard file used for data visualization and exploratory data analysis of the dataset.
+
+dataset.xlsx
+Processed dataset used for training and evaluating the machine learning model. Includes labeled classes and bounding box information.
 
 ## Key Features:
 
