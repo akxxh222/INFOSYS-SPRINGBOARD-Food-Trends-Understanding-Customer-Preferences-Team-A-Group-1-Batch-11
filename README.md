@@ -122,7 +122,9 @@ Apply machine learning–based customer segmentation (clustering)
 
 ## Conclusion:
 
-The project successfully analyzed customer ordering behaviour and food preferences using Power BI dashboards. It converted raw data into meaningful and actionable insights through effective visualization. Key patterns related to ordering platforms, time preferences, service quality, and affordability were clearly identified. The project demonstrates the practical application of data analytics concepts in a real-world scenario.
+The project successfully analyzed customer ordering behavior and food preferences using interactive Power BI dashboards, transforming raw data into structured, meaningful, and actionable insights. Through systematic data preprocessing, cleaning, and visualization, the analysis identified clear patterns in ordering platforms, peak time preferences, spending habits, service quality, and affordability trends. The dashboards enabled complex data to be interpreted in a simple and visually intuitive manner, making key insights easy to understand.
+
+Overall, the project demonstrates the practical application of data analytics concepts in a real-world business context. It highlights how effective visualization and analytical reasoning can support better decision-making, improve operational strategies, and enhance customer satisfaction. By converting data into insights, the project showcases the value of data-driven approaches in understanding consumer behavior and optimizing services.
 
 ## Contributors:
 
